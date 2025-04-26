@@ -4,9 +4,9 @@ Welcome to Business Insights 360 - Your Gateway to Data-Driven Decision Making!
 
 This project is a comprehensive Power BI dashboard developed to analyze and visualize key performance metrics across various departments at AtliQ Hardware. It provides actionable insights into finance, sales, marketing, supply chain, and executive operations, empowering stakeholders to make informed decisions for strategic growth.
 
-## Live Dashboard
+[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTk2MGVlMGEtZTM4Ny00MDBkLWFjOTctODQ0NzBhNjZhYzZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZTk2MGVlMGEtZTM4Ny00MDBkLWFjOTctODQ0NzBhNjZhYzZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Presentation Video](https://youtu.be/EKO_APq5avY)
 
 ## Features
 
